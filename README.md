@@ -1,3 +1,3 @@
 # learning-c-plus-plus
 
-these projects are from school
+these are C++ projects that I worked on for school
